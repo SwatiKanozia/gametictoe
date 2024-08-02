@@ -67,3 +67,9 @@ img{
     padding: 1rem;
     border-radius: 2rem;
 }
+@media screen and (max-width: 600px){
+     height: 36px;
+    width:50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
